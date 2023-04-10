@@ -21,7 +21,7 @@ I'm a 15 year old programmer with a BIG passion for programming. In my free time
 
 ## 📅 2022:
 
-- Didn't know what path I wanted to go down on but in December i stumbled upon NicePage, a free software that let you make websites and after that I soon dicovered the world of Web Development
+- Didn't know what path I wanted to go down on but in December i stumbled upon NicePage, a free software that lets you make websites and after that I soon dicovered the world of Web Development
 
 ## 🎉 2023:
 
