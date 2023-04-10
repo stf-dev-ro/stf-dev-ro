@@ -38,7 +38,7 @@ I'm a 15 year old programmer with a BIG passion for programming. In my free time
 
 ## 📚 Featured Projects
 
-- Music App (COMING SOON)
+- Music App (https://github.com/stf-dev-ro/Stefan-Music-App)
 
 ## 🔧 Skills and Tools
 
