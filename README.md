@@ -46,6 +46,7 @@ I'm a 15 year old programmer with a BIG passion for programming. In my free time
 - HTML & CSS
 - React
 - Node.js
+- Electron
 - VS Code
 - nginx
 
