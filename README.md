@@ -1,6 +1,6 @@
 # Hi, I'm stf.dev! 👋
 
-I'm a 15 year old programmer with a BIG passion for programming. In my free time, I focus on learning new things and building side projects to enhance my programming skills.
+I'm a 15 year old with a BIG passion for programming. In my free time, I focus on learning new things and building side projects to enhance my programming skills.
 
 ## 📫 How to reach me
 
