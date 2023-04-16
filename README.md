@@ -1,6 +1,6 @@
 # Hi, I'm stf.dev! 👋
 
-I'm a 15 year old with a BIG passion for programming. In my free time, I focus on learning new things and building side projects to enhance my programming skills.
+I am a Full-Stack Web Developer who can code a lot of things, especially if it requires using Web Technologies.
 
 ## 📫 How to reach me
 
@@ -29,7 +29,7 @@ I'm a 15 year old with a BIG passion for programming. In my free time, I focus o
 - Learned JavaScript from the statrt February to March 
 - Started learning React at the end of March
 - Started learning Node.JS at the start of April
-
+- Built a very cool web server (16.04.2023)
 
 ## 🏆 Honors and Awards
 
@@ -48,7 +48,7 @@ I'm a 15 year old with a BIG passion for programming. In my free time, I focus o
 - HTML & CSS
 - React
 - Node.js
-- Electron
+- Electron (not the best at it)
 - VS Code
 - nginx
 
