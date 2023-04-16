@@ -38,7 +38,9 @@ I'm a 15 year old programmer with a BIG passion for programming. In my free time
 
 ## 📚 Featured Projects
 
-- Denis App Suite (not released yet)
+- Ștefan Web Server
+- Ștefan App Suite (not released yet)
+- Ștefan Music Player (discontinued)
 
 ## 🔧 Skills and Tools
 
