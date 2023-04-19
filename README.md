@@ -30,6 +30,7 @@ I am a Full-Stack Web Developer who can code a lot of things, especially if it r
 - Started learning React at the end of March
 - Started learning Node.JS at the start of April
 - Built a very cool web server (16.04.2023)
+- Built my first website with TypeScript (18.04.2023 - 19.04.2023)
 
 ## 🏆 Honors and Awards
 
@@ -38,19 +39,20 @@ I am a Full-Stack Web Developer who can code a lot of things, especially if it r
 
 ## 📚 Featured Projects
 
-- Ștefan Web Server
-- Ștefan App Suite (not released yet)
-- Ștefan Music Player (discontinued)
+- Ștefan Web Server (Version 1.0)
+- Ștefan App Suite (Work In Progress)
+- Ștefan Music Player (discontinued (Version 1.1.0))
 
 ## 🔧 Skills and Tools
 
+- TypeScript
 - JavaScript
 - HTML & CSS
 - React
 - Node.js
 - Electron (not the best at it)
 - VS Code
-- nginx
+- Ștefan Web Server (made by me)
 
 ## 🌟 My Goals:
 
