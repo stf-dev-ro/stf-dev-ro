@@ -43,6 +43,8 @@ I am a Full-Stack Web Developer who can code a lot of things, especially if it r
 - Ștefan App Suite (Work In Progress)
 - Ștefan Music Player (discontinued (Version 1.1.0))
 
+- Working on a Rebuild of the Music Player using Typescript and Web Components
+
 ## 🔧 Skills and Tools
 
 - TypeScript
